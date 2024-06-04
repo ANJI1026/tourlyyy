@@ -5,7 +5,7 @@ Tourly is fully responsive travel website, <br />Responsive for all devices, bui
          
 <img src="./readme-images/project-logo.png" />         
 ### Demo Screeshots
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourly Desktop Demo](./readme.md-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
